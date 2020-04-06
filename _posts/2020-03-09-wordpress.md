@@ -8,7 +8,7 @@ meta: "Pembuatan website mudah dengan menggunakan wordpress cms aplikasi softwar
 ---
 ![pembuatan website dengan wordpress](https://mesinkasir.github.io/assets/img/wordpress.png)
 
-### **[APLIKASI PEMBUATAN WEBSITE WORDPRESS LENGKAP](website/2020/03/09/wordpress.html)**
+### **[APLIKASI PEMBUATAN WEBSITE WORDPRESS LENGKAP](/website/2020/03/09/wordpress.html)**
 
 Kebutuhan untuk pembuatan website yang mudah digunakan super lengkap maka wordpress adalah jawaban terbaik dalam kebutuhan [aplikasi software pembuatan website](website/2020/03/09/wordpress.html) , mengapa sih menggunakan nya ?? ini adalah salah satu top populer akan cms dan banyak dipergunakan dalam membangun website diseluruh dunia karena kemudahan dan kelengkapan fitur banyak user yang menggunakan nya dalam berbagai kebutuhan pembuatan website selain itu kemudahan dalam modifikasi coding menjadi kan kebebasan dalam berbagai kebutuhan desain dan system dalam penggunaan nya.
 
