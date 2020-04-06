@@ -1,0 +1,17 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="dxGyry93qUND2tzF6ECYxtGBPFl4VVpTkC8yy2bE3II" />
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+
+  {%- include custom-head.html -%}
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css">
+  <link href="/assets/img/favicon.ico" rel='shortcut icon' />
+</head>
